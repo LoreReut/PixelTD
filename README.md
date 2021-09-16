@@ -1,5 +1,5 @@
 # PixelTD
- Minimalistic tower defense game focused on grand scale and pixel bonanza
+ I wanted to see if I could make a game with no framework or libraries, just from scratch, with Java. It's a minimalistic tower defense game focused on grand scale and pixel bonanza.
  
  [A short example of what I'm going for (They grey pixels are turrets, white are enemies).](https://i.gyazo.com/c7c0e3274ddf11542246650524658f2f.mp4)
  
