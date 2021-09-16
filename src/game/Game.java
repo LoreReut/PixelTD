@@ -19,11 +19,11 @@ public class Game {
         for (int i = 0; i < 100; i++){
             World.currentWorld.sprites.add(new Enemy(1 + i * 10, 400));
         }
-        for (int i = 0; i < 100; i++){
-            World.currentWorld.sprites.add(new TurretSpear(1 + i * 15, 200));
+        for (int i = 0; i < 20; i++){
+            World.currentWorld.sprites.add(new TurretSpear(100 + i * 15, 200));
         }
-        for (int i = 0; i < 0; i++){
-            World.currentWorld.sprites.add(new Turret(1 + i * 10, 600));
+        for (int i = 0; i < 20; i++){
+            World.currentWorld.sprites.add(new Turret(100 + i * 10, 600));
         }
 
         //End of test code

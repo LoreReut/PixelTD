@@ -6,7 +6,7 @@ import world.World;
 import java.awt.*;
 
 public class Enemy extends Sprite {
-    float speed = 50.0f;
+    float speed = 5.0f;
     Color color = Color.WHITE;
     int hp = 100;
     // The hp it will have when all the bullets have reached it

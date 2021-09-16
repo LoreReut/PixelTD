@@ -36,7 +36,6 @@ public class BulletSpear extends Bullet {
             posY += speed * Math.cos(angle) * deltaTime;
         }
     }
-    @Override
     public void render(Graphics g){
         this.g = g;
         g.setColor(Color.YELLOW);
