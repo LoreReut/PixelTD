@@ -15,7 +15,7 @@ public class Turret extends Sprite {
     //debug variable
     int bulletCount = 0;
     // Fire rate in seconds
-    double fireRate = 0.5;
+    double fireRate = 0.1;
     long currentTime = System.nanoTime();
     public Turret(float posX, float posY) {
         super(posX, posY);
